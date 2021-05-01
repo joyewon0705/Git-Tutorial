@@ -1,3 +1,5 @@
 def add
 
 def sub
+
+def mul
